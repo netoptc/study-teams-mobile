@@ -22,5 +22,5 @@ Install my-project with npm
 ## 📸 Screns
 
 <p align="left">
-  <img src=".github/gifs/iPhone14.gif" alt="GIF" width="300px" />
+  <img src=".github/gifs/screen-iphone.gif" alt="GIF" width="300px" />
 </p>
