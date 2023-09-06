@@ -20,3 +20,7 @@ Install my-project with npm
 ```
 
 ## 📸 Screns
+
+<p align="center">
+  <img src="./github/gifs/iPhone14.gif" alt="GIF" width="300px" />
+</p>
