@@ -1,4 +1,4 @@
-# study-rentcar-api
+# study-teams-mobile
 
 This is a study project of a mobile application for creating groups of people
 
